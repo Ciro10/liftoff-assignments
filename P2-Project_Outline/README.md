@@ -7,11 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My Application will be a Restaurant franchise website. It will have an online menu where users can peruse items and users will be able to  order food from to pick up.
 ### Features
-Include Features here
+An online menu and pictures.A cart feature that will addup the total.
 ### Technologies
-Include Technologies here
+I would like to provide a google maps feature so theoretically users can search for a nearby franchise location.
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn how to use and implement an API: Google Maps
+
