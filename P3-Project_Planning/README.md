@@ -12,7 +12,7 @@ This is a link to my mockups/wireframes: https://xd.adobe.com/view/ea536fee-ed49
 
 ### Project Tracker
 
-See above.
+Pivotal tracker: https://www.pivotaltracker.com/n/projects/2238865
 
 ### Project Repo Link
 
