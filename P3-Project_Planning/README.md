@@ -16,4 +16,4 @@ Pivotal tracker: https://www.pivotaltracker.com/n/projects/2238865
 
 ### Project Repo Link
 
-https://github.com/Ciro10/Casa-di-Roma-restorante.git
+https://github.com/Ciro10/Casa-di-Roma.git
