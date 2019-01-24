@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 www.github.com/UZYI-IT
  
 ### LinkedIn
-linkedin.com/in/uzziel-yi-42525817a
+linkedin.com/in/uzziel-yi
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
