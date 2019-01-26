@@ -11,9 +11,9 @@ My Application will be a Restaurant's website. It will have an online menu secti
 ### Features
 An online menu and pictures.A cart feature that will addup the total.In the locations sections they will be able to find restaurant locations near them via google maps.
 ### Technologies
-### On the backend I will be employing C# language within the .net core framework.
+#### On the backend I will be employing C# language within the .net core framework.
 I would like to provide a google maps feature so theoretically users can search for a nearby franchise location.
-### I will also be employing a database to save all the items in the cart persistently, in particular MySQL.
+#### I will also be employing a database to save all the items in the cart persistently, in particular MySQL.
 Eventually I would also implement some javascript to make the pages more animated. One example would be  a floating cart and menu item window once the user adds an item to the cart.
 
 ### What I'll Have to Learn
