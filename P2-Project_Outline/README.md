@@ -14,6 +14,7 @@ An online menu and pictures.A cart feature that will addup the total.In the loca
 #### On the backend I will be employing C# language within the .net core framework.
 I would like to provide a google maps feature so theoretically users can search for a nearby franchise location.
 #### I will also be employing a database to save all the items in the cart persistently, in particular MySQL.
+It will be a one to many relational database.The cart table will link to many items in the menuItem table.Each one of these objects will have an id to help with that link.
 Eventually I would also implement some javascript to make the pages more animated. One example would be  a floating cart and menu item window once the user adds an item to the cart.
 
 ### What I'll Have to Learn
