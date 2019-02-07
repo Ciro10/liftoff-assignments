@@ -7,15 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My Application will be a Restaurant's website. It will have an online menu section where users can peruse items and users will be able to  order food from to pick up.The locations section will enable them to look up the nearest restaurant to them. The home page will have attractive specials to order.The cart section will enable them to save items to and they will be provided with a total.The individual items section will have more descriptive feature for customers to be informed about the ingredients.
+My Application will be a Restaurant's website. It will have an online menu section where users can peruse items and users will be able to  order food from to pick up.The locations section will enable them to look up the nearest restaurant to them. The home page will have attractive specials to order.The cart section will enable them to save items to and they will be provided with a total.The individual items section will have more descriptive feature for customers to be informed about the ingredients.I will also be employing a database to save all the items in the cart persistently.
 ### Features
 An online menu and pictures.A cart feature that will addup the total.In the locations sections they will be able to find restaurant locations near them via google maps.
 ### Technologies
-#### On the backend I will be employing C# language within the .net core framework.
-I would like to provide a google maps feature so theoretically users can search for a nearby franchise location.
-#### I will also be employing a database to save all the items in the cart persistently, in particular MySQL.
-It will be a one to many relational database.The cart table will link to many items in the menuItem table.Each one of these objects will have an id to help with that link.
-Eventually I would also implement some javascript to make the pages more animated. One example would be  a floating cart and menu item window once the user adds an item to the cart.
+On the backend I will be employing C# language within the .net core framework.
+For database language it will be MySQL.
+In the front I will use CSS and eventually incorporate some javascript for Items added to cart feature.
+
 
 ### What I'll Have to Learn
 I will have to learn how to use and implement an API: Google Maps
