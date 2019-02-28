@@ -14,3 +14,4 @@ linkedin.com/in/uzziel-yi
 
 ### Resume
 
+See Resume-IT.pdf above
